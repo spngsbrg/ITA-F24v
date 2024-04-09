@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+
+    <!-- Bootstrap -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9"
+      crossorigin="anonymous"
+    />
+    <!-- Hvis man sørger for at definere sin egen styling EFTER linket til bootstrap, så virker det med overrides. Se selv her -->
+
+    <style>
+      .btn-warning:hover {
+        background-color: rgb(244, 102, 102);
+        color: rgb(153, 13, 13);
+      }
+    </style>
+
+    <!-- Tailwind -->
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <title>HTML og CSS</title>
+  </head>
+  <body>
+    <h1 class="text-3xl font-bold underline text-clifford">
+      Tailwind: Hello world!
+    </h1>
+    <h1>Bootstrap: Hello world!</h1>
+
+    <button class="btn btn-warning">Bootstrap</button>
+  </body>
+</html>

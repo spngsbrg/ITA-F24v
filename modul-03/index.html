@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>JavaScript: Intro</title>
+    <style>
+      .heading {
+        color: rgb(128, 128, 128);
+        font-size: xx-large;
+        font-family: sans-serif;
+        padding-top: 20px;
+        padding-bottom: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>JavaScript: Intro</h1>
+    <script type="text/javascript">
+      let hest = "Heste variabel";
+      let number = 4;
+      document.write("<p>");
+      document.write(hest);
+      document.write("<br />");
+      document.write(number);
+      document.write("</p>");
+    </script>
+
+    <h1>Current Date and Time</h1>
+
+    <script type="text/javascript">
+      let now = new Date();
+
+      let localTime = now.toString();
+
+      let gmtTime = now.toGMTString();
+
+      document.write("<p>");
+      document.write("<strong>Local time:</strong> " + localTime + "<br/>");
+      document.write("<strong>GMT time:</strong> " + gmtTime);
+      document.write("</p>");
+
+      let hours = now.getHours();
+      let mins = now.getMinutes();
+      let secs = now.getSeconds();
+
+      document.write("<h1>");
+      document.write(hours + ":" + mins + ":" + secs);
+      document.write("</h1>");
+    </script>
+
+    <h1>Displaying the last modified date</h1>
+
+    <p>This page was last modified on:</p>
+
+    <script type="text/javascript">
+      document.write(document.lastModified);
+    </script>
+
+    <div id="hans" class="heading">A for-loop</div>
+
+    <script type="text/javascript">
+      let element = document.getElementById("hans");
+
+      console.log(element);
+      console.log(element.innerHTML);
+      console.log(element.innerText);
+
+      element.innerHTML = "Hej Hans";
+
+      console.log(element);
+      console.log(element.innerHTML);
+      console.log(element.innerText);
+
+      let numberArray = [1, 2, 3, 4, 5, 6, 8, 9, 10];
+
+      let obj = { name: "Thomas" };
+
+      console.log("length of numberArray: " + numberArray.length);
+
+      numberArray[0] = element.innerHTML;
+
+      for (let i = 0; i < numberArray.length; i++) {
+        document.write("<div>");
+        document.write(numberArray[i]);
+        document.write("</div>");
+      }
+    </script>
+  </body>
+</html>

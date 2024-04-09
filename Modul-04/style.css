@@ -1,0 +1,16 @@
+@CHARSET "UTF-8";
+
+#buttons{
+	text-align: center;
+}
+
+#square{	
+	position: absolute;
+	top: 150px;
+	left: 100px;
+	width: 200px;
+	height: 200px;
+	border: 2px solid black;
+	padding: 10px;
+	background-color: #e0e0e0;
+}
