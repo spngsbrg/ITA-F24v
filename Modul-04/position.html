@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Positioning</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
+    <h1>Positioning elements</h1>
+
+    <form action="" name="form1">
+      <div id="buttons">
+        <input type="button" name="left" value="Left" onclick="pos(-1,0);" />
+        <input type="button" name="right" value="Right" onclick="pos(1,0);" />
+        <input type="button" name="up" value="Up" onclick="pos(0,-1);" />
+        <input type="button" name="down" value="Down" onclick="pos(0,1);" />
+        <input
+          type="button"
+          name="hide"
+          value="Hide"
+          onclick="document.getElementById('square').style.display = 'none';"
+        />
+        <input type="button" name="show" value="Show" onclick="showSquare();" />
+      </div>
+    </form>
+
+    <hr />
+
+    <div id="square">
+      <p>
+        This square is an absolutely positioned layer that you can move using
+        the buttons above.
+      </p>
+    </div>
+
+    <script type="text/javascript" src="/position.js"></script>
+  </body>
+</html>
