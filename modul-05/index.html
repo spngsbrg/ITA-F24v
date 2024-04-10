@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Modul 05</title>
+  </head>
+  <body>
+    <p id="personInfo"></p>
+
+    <script>
+      //Create objects via literal notation (like JSON)
+
+      const person1 = {
+        firstName: "John",
+        lastName: "Doe",
+        getFullName: function () {
+          return this.firstName + " " + this.lastName;
+        },
+      };
+
+      const person2 = {
+        firstName: "",
+        lastName: "Hurt",
+        getFullName: function () {
+          return this.firstName + " " + this.lastName;
+        },
+        setName: function (firstName, lastName) {
+          this.firstName = firstName;
+          this.lastName = lastName;
+        },
+      };
+
+      person2.firstName = "Peter";
+
+      //Fy - nej!
+      //person2 = "peter";
+
+      //console.log(person1.getFullName());
+      //console.log(person2.getFullName());
+
+      person2.setName("Stan", "Stabajs");
+
+      //console.log(person2.getFullName());
+
+      //Create objects via constructor
+
+      function Person(firstName, lastName) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.getFullName = function () {
+          return this.firstName + " " + this.lastName;
+        };
+        this.setName = function (firstName, lastName) {
+          this.firstName = firstName;
+          this.lastName = lastName;
+          return this;
+        };
+        this.presentOnPage = function () {
+          //document.getElementById("personInfo").innerHTML = document.getElementById("personInfo").innerHTML + this.getFullName();
+          document.getElementById("personInfo").innerHTML +=
+            this.getFullName() + "<br/> ";
+          return this;
+        };
+      }
+
+      const person3 = new Person("Peter", "Pan");
+      //console.log(person3.getFullName());
+
+      let person3Name = person3.getFullName();
+
+      console.log(person3Name);
+
+      person3Name = person3Name + " hest";
+
+      console.log(person3Name);
+
+      console.log(person3.getFullName());
+
+      person3.presentOnPage().setName("Tom", "Riddle").presentOnPage();
+
+      let persons = [];
+
+      for (i = 0; i < 10; i++) {
+        const person = new Person("Peter" + i, "Pan" + i);
+        persons.push(person);
+      }
+
+      console.log(persons);
+    </script>
+  </body>
+</html>
