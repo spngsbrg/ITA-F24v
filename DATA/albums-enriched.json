@@ -1,0 +1,1558 @@
+[
+  {
+    "id": 0,
+    "albumName": "Greatest hits",
+    "artistName": "ZZ-top",
+    "artistWebsite": "http://www.zztop.com/",
+    "productionYear": 1992,
+    "rating": 4.5,
+    "fullPlays": 500,
+    "favorites": 1000,
+    "trackList": [
+      {
+        "trackNumber": 1,
+        "trackTitle": "Gimme all your lovin'",
+        "trackTimeInSeconds": 241,
+        "timesPlayed": 200,
+        "likes": 150,
+        "trackFavorites": 50
+      },
+      {
+        "trackNumber": 2,
+        "trackTitle": "Sharp dressed man",
+        "trackTimeInSeconds": 256,
+        "timesPlayed": 180,
+        "likes": 130,
+        "trackFavorites": 45
+      },
+      {
+        "trackNumber": 3,
+        "trackTitle": "Rough boy",
+        "trackTimeInSeconds": 290,
+        "timesPlayed": 220,
+        "likes": 160,
+        "trackFavorites": 55
+      },
+      {
+        "trackNumber": 4,
+        "trackTitle": "Tush",
+        "trackTimeInSeconds": 135,
+        "timesPlayed": 100,
+        "likes": 70,
+        "trackFavorites": 25
+      },
+      {
+        "trackNumber": 5,
+        "trackTitle": "My head's in Mississippi",
+        "trackTimeInSeconds": 261,
+        "timesPlayed": 190,
+        "likes": 140,
+        "trackFavorites": 48
+      },
+      {
+        "trackNumber": 6,
+        "trackTitle": "Pearl Necklace",
+        "trackTimeInSeconds": 246,
+        "timesPlayed": 180,
+        "likes": 130,
+        "trackFavorites": 45
+      },
+      {
+        "trackNumber": 7,
+        "trackTitle": "I'm bad, I'm nationwide",
+        "trackTimeInSeconds": 287,
+        "timesPlayed": 210,
+        "likes": 155,
+        "trackFavorites": 52
+      },
+      {
+        "trackNumber": 8,
+        "trackTitle": "Viva Las Vegas",
+        "trackTimeInSeconds": 288,
+        "timesPlayed": 215,
+        "likes": 160,
+        "trackFavorites": 54
+      },
+      {
+        "trackNumber": 9,
+        "trackTitle": "Doubleback",
+        "trackTimeInSeconds": 236,
+        "timesPlayed": 175,
+        "likes": 125,
+        "trackFavorites": 42
+      },
+      {
+        "trackNumber": 10,
+        "trackTitle": "Gun Love",
+        "trackTimeInSeconds": 220,
+        "timesPlayed": 160,
+        "likes": 115,
+        "trackFavorites": 40
+      },
+      {
+        "trackNumber": 11,
+        "trackTitle": "Got me under pressure",
+        "trackTimeInSeconds": 241,
+        "timesPlayed": 185,
+        "likes": 135,
+        "trackFavorites": 47
+      },
+      {
+        "trackNumber": 12,
+        "trackTitle": "Give it up",
+        "trackTimeInSeconds": 210,
+        "timesPlayed": 155,
+        "likes": 110,
+        "trackFavorites": 38
+      },
+      {
+        "trackNumber": 13,
+        "trackTitle": "Cheap sunglasses",
+        "trackTimeInSeconds": 287,
+        "timesPlayed": 215,
+        "likes": 160,
+        "trackFavorites": 54
+      },
+      {
+        "trackNumber": 14,
+        "trackTitle": "Sleeping bag",
+        "trackTimeInSeconds": 244,
+        "timesPlayed": 185,
+        "likes": 135,
+        "trackFavorites": 47
+      },
+      {
+        "trackNumber": 15,
+        "trackTitle": "Planet of women",
+        "trackTimeInSeconds": 246,
+        "timesPlayed": 190,
+        "likes": 140,
+        "trackFavorites": 48
+      },
+      {
+        "trackNumber": 16,
+        "trackTitle": "La Grange",
+        "trackTimeInSeconds": 233,
+        "timesPlayed": 175,
+        "likes": 125,
+        "trackFavorites": 42
+      },
+      {
+        "trackNumber": 17,
+        "trackTitle": "Tube snake boogie",
+        "trackTimeInSeconds": 185,
+        "timesPlayed": 140,
+        "likes": 100,
+        "trackFavorites": 35
+      },
+      {
+        "trackNumber": 18,
+        "trackTitle": "Legs-remix version",
+        "trackTimeInSeconds": 272,
+        "timesPlayed": 205,
+        "likes": 150,
+        "trackFavorites": 51
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "albumName": "Wild Cherry",
+    "artistName": "Wild Cherry",
+    "artistWebsite": "http://en.wikipedia.org/wiki/Wild_Cherry_%28band%29",
+    "productionYear": 1976,
+    "rating": 4.2,
+    "fullPlays": 350,
+    "favorites": 800,
+    "trackList": [
+      {
+        "trackNumber": 1,
+        "trackTitle": "Play that funky music",
+        "trackTimeInSeconds": 300,
+        "timesPlayed": 200,
+        "likes": 150,
+        "trackFavorites": 45
+      },
+      {
+        "trackNumber": 2,
+        "trackTitle": "The lady wants your money",
+        "trackTimeInSeconds": 251,
+        "timesPlayed": 180,
+        "likes": 135,
+        "trackFavorites": 42
+      },
+      {
+        "trackNumber": 3,
+        "trackTitle": "99 1/2",
+        "trackTimeInSeconds": 178,
+        "timesPlayed": 120,
+        "likes": 90,
+        "trackFavorites": 28
+      },
+      {
+        "trackNumber": 4,
+        "trackTitle": "Don't go near the water",
+        "trackTimeInSeconds": 196,
+        "timesPlayed": 130,
+        "likes": 100,
+        "trackFavorites": 30
+      },
+      {
+        "trackNumber": 5,
+        "trackTitle": "Nowhere to run",
+        "trackTimeInSeconds": 183,
+        "timesPlayed": 125,
+        "likes": 95,
+        "trackFavorites": 29
+      },
+      {
+        "trackNumber": 6,
+        "trackTitle": "I feel sanctified",
+        "trackTimeInSeconds": 228,
+        "timesPlayed": 150,
+        "likes": 115,
+        "trackFavorites": 35
+      },
+      {
+        "trackNumber": 7,
+        "trackTitle": "Hold on",
+        "trackTimeInSeconds": 249,
+        "timesPlayed": 165,
+        "likes": 125,
+        "trackFavorites": 38
+      },
+      {
+        "trackNumber": 8,
+        "trackTitle": "Get it up",
+        "trackTimeInSeconds": 178,
+        "timesPlayed": 120,
+        "likes": 90,
+        "trackFavorites": 28
+      },
+      {
+        "trackNumber": 9,
+        "trackTitle": "What in the funk do you see",
+        "trackTimeInSeconds": 206,
+        "timesPlayed": 140,
+        "likes": 105,
+        "trackFavorites": 32
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "albumName": "Meteora",
+    "artistName": "Linkin Park",
+    "artistWebsite": "http://www.linkinpark.com/",
+    "productionYear": 2003,
+    "rating": 4.6,
+    "fullPlays": 600,
+    "favorites": 1200,
+    "trackList": [
+      {
+        "trackNumber": 1,
+        "trackTitle": "Foreword",
+        "trackTimeInSeconds": 14,
+        "timesPlayed": 80,
+        "likes": 65,
+        "trackFavorites": 20
+      },
+      {
+        "trackNumber": 2,
+        "trackTitle": "Don't stay",
+        "trackTimeInSeconds": 188,
+        "timesPlayed": 120,
+        "likes": 100,
+        "trackFavorites": 30
+      },
+      {
+        "trackNumber": 3,
+        "trackTitle": "Somewhere I belong",
+        "trackTimeInSeconds": 217,
+        "timesPlayed": 150,
+        "likes": 125,
+        "trackFavorites": 38
+      },
+      {
+        "trackNumber": 4,
+        "trackTitle": "Lying from you",
+        "trackTimeInSeconds": 175,
+        "timesPlayed": 110,
+        "likes": 90,
+        "trackFavorites": 28
+      },
+      {
+        "trackNumber": 5,
+        "trackTitle": "Hit the floor",
+        "trackTimeInSeconds": 164,
+        "timesPlayed": 105,
+        "likes": 85,
+        "trackFavorites": 26
+      },
+      {
+        "trackNumber": 6,
+        "trackTitle": "Easier to run",
+        "trackTimeInSeconds": 204,
+        "timesPlayed": 140,
+        "likes": 115,
+        "trackFavorites": 35
+      },
+      {
+        "trackNumber": 7,
+        "trackTitle": "Faint",
+        "trackTimeInSeconds": 164,
+        "timesPlayed": 105,
+        "likes": 85,
+        "trackFavorites": 26
+      },
+      {
+        "trackNumber": 8,
+        "trackTitle": "Figure.09",
+        "trackTimeInSeconds": 198,
+        "timesPlayed": 130,
+        "likes": 105,
+        "trackFavorites": 32
+      },
+      {
+        "trackNumber": 9,
+        "trackTitle": "Breaking the habit",
+        "trackTimeInSeconds": 197,
+        "timesPlayed": 125,
+        "likes": 100,
+        "trackFavorites": 30
+      },
+      {
+        "trackNumber": 10,
+        "trackTitle": "From the inside",
+        "trackTimeInSeconds": 176,
+        "timesPlayed": 115,
+        "likes": 95,
+        "trackFavorites": 29
+      },
+      {
+        "trackNumber": 11,
+        "trackTitle": "Nobody's listening",
+        "trackTimeInSeconds": 179,
+        "timesPlayed": 120,
+        "likes": 100,
+        "trackFavorites": 30
+      },
+      {
+        "trackNumber": 12,
+        "trackTitle": "Session",
+        "trackTimeInSeconds": 144,
+        "timesPlayed": 95,
+        "likes": 80,
+        "trackFavorites": 24
+      },
+      {
+        "trackNumber": 13,
+        "trackTitle": "Numb",
+        "trackTimeInSeconds": 188,
+        "timesPlayed": 125,
+        "likes": 100,
+        "trackFavorites": 30
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "albumName": "Top Gun - Motion Picture Soundtrack",
+    "artistName": "Various",
+    "artistWebsite": "NIL",
+    "productionYear": 1989,
+    "rating": 4.4,
+    "fullPlays": 450,
+    "favorites": 950,
+    "trackList": [
+      {
+        "trackNumber": 1,
+        "trackTitle": "Danger zone",
+        "trackTimeInSeconds": 216,
+        "timesPlayed": 160,
+        "likes": 125,
+        "trackFavorites": 38
+      },
+      {
+        "trackNumber": 2,
+        "trackTitle": "Mighty wings",
+        "trackTimeInSeconds": 231,
+        "timesPlayed": 170,
+        "likes": 135,
+        "trackFavorites": 41
+      },
+      {
+        "trackNumber": 3,
+        "trackTitle": "Playing with the boys",
+        "trackTimeInSeconds": 240,
+        "timesPlayed": 180,
+        "likes": 140,
+        "trackFavorites": 43
+      },
+      {
+        "trackNumber": 4,
+        "trackTitle": "Lead me on",
+        "trackTimeInSeconds": 228,
+        "timesPlayed": 170,
+        "likes": 130,
+        "trackFavorites": 40
+      },
+      {
+        "trackNumber": 5,
+        "trackTitle": "Take my breath away",
+        "trackTimeInSeconds": 256,
+        "timesPlayed": 190,
+        "likes": 145,
+        "trackFavorites": 44
+      },
+      {
+        "trackNumber": 6,
+        "trackTitle": "Hot summer nights",
+        "trackTimeInSeconds": 219,
+        "timesPlayed": 160,
+        "likes": 120,
+        "trackFavorites": 37
+      },
+      {
+        "trackNumber": 7,
+        "trackTitle": "Heaven in your eyes",
+        "trackTimeInSeconds": 244,
+        "timesPlayed": 175,
+        "likes": 135,
+        "trackFavorites": 41
+      },
+      {
+        "trackNumber": 8,
+        "trackTitle": "Through the fire",
+        "trackTimeInSeconds": 226,
+        "timesPlayed": 165,
+        "likes": 125,
+        "trackFavorites": 38
+      },
+      {
+        "trackNumber": 9,
+        "trackTitle": "Destination unknown",
+        "trackTimeInSeconds": 229,
+        "timesPlayed": 170,
+        "likes": 130,
+        "trackFavorites": 40
+      },
+      {
+        "trackNumber": 10,
+        "trackTitle": "Top gun anthem",
+        "trackTimeInSeconds": 252,
+        "timesPlayed": 185,
+        "likes": 140,
+        "trackFavorites": 43
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "albumName": "Hjertestarter - Bonus Edition",
+    "artistName": "Nephew",
+    "artistWebsite": "http://www.nephew.dk",
+    "productionYear": 2013,
+    "rating": 4.3,
+    "fullPlays": 520,
+    "favorites": 980,
+    "trackList": [
+      {
+        "trackNumber": 1,
+        "trackTitle": "Hjertestarter",
+        "trackTimeInSeconds": 304,
+        "timesPlayed": 180,
+        "likes": 140,
+        "trackFavorites": 42
+      },
+      {
+        "trackNumber": 2,
+        "trackTitle": "Klokken 25",
+        "trackTimeInSeconds": 244,
+        "timesPlayed": 145,
+        "likes": 110,
+        "trackFavorites": 33
+      },
+      {
+        "trackNumber": 3,
+        "trackTitle": "Alt er hårdt",
+        "trackTimeInSeconds": 277,
+        "timesPlayed": 165,
+        "likes": 125,
+        "trackFavorites": 38
+      },
+      {
+        "trackNumber": 4,
+        "trackTitle": "Åh gud (jeg håber du holder øje med mig)",
+        "trackTimeInSeconds": 354,
+        "timesPlayed": 210,
+        "likes": 160,
+        "trackFavorites": 48
+      },
+      {
+        "trackNumber": 5,
+        "trackTitle": "Tak du",
+        "trackTimeInSeconds": 275,
+        "timesPlayed": 160,
+        "likes": 120,
+        "trackFavorites": 36
+      },
+      {
+        "trackNumber": 6,
+        "trackTitle": "Gå med dig",
+        "trackTimeInSeconds": 273,
+        "timesPlayed": 160,
+        "likes": 120,
+        "trackFavorites": 36
+      },
+      {
+        "trackNumber": 7,
+        "trackTitle": "De satans hæmninger",
+        "trackTimeInSeconds": 333,
+        "timesPlayed": 200,
+        "likes": 150,
+        "trackFavorites": 45
+      },
+      {
+        "trackNumber": 8,
+        "trackTitle": "Søndagsbange",
+        "trackTimeInSeconds": 260,
+        "timesPlayed": 155,
+        "likes": 115,
+        "trackFavorites": 34
+      },
+      {
+        "trackNumber": 9,
+        "trackTitle": "Alt er synd",
+        "trackTimeInSeconds": 343,
+        "timesPlayed": 205,
+        "likes": 155,
+        "trackFavorites": 46
+      },
+      {
+        "trackNumber": 10,
+        "trackTitle": "Fem rum",
+        "trackTimeInSeconds": 317,
+        "timesPlayed": 190,
+        "likes": 145,
+        "trackFavorites": 43
+      },
+      {
+        "trackNumber": 11,
+        "trackTitle": "Gå med dig",
+        "trackTimeInSeconds": 246,
+        "timesPlayed": 150,
+        "likes": 115,
+        "trackFavorites": 34
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "albumName": "USADSB",
+    "artistName": "Nephew",
+    "artistWebsite": "http://www.nephew.dk",
+    "productionYear": 2004,
+    "rating": 4.2,
+    "fullPlays": 480,
+    "favorites": 900,
+    "trackList": [
+      {
+        "trackNumber": 1,
+        "trackTitle": "Movie klip",
+        "trackTimeInSeconds": 304,
+        "timesPlayed": 160,
+        "likes": 125,
+        "trackFavorites": 37
+      },
+      {
+        "trackNumber": 2,
+        "trackTitle": "Superliga",
+        "trackTimeInSeconds": 223,
+        "timesPlayed": 120,
+        "likes": 95,
+        "trackFavorites": 29
+      },
+      {
+        "trackNumber": 3,
+        "trackTitle": "Blå & black",
+        "trackTimeInSeconds": 209,
+        "timesPlayed": 110,
+        "likes": 85,
+        "trackFavorites": 26
+      },
+      {
+        "trackNumber": 4,
+        "trackTitle": "Milk & wine",
+        "trackTimeInSeconds": 257,
+        "timesPlayed": 135,
+        "likes": 105,
+        "trackFavorites": 32
+      },
+      {
+        "trackNumber": 5,
+        "trackTitle": "Dårlig træning",
+        "trackTimeInSeconds": 320,
+        "timesPlayed": 170,
+        "likes": 130,
+        "trackFavorites": 39
+      },
+      {
+        "trackNumber": 6,
+        "trackTitle": "En wannabe Darth Vader",
+        "trackTimeInSeconds": 260,
+        "timesPlayed": 140,
+        "likes": 110,
+        "trackFavorites": 33
+      },
+      {
+        "trackNumber": 7,
+        "trackTitle": "Worst / best case scenario",
+        "trackTimeInSeconds": 267,
+        "timesPlayed": 145,
+        "likes": 115,
+        "trackFavorites": 35
+      },
+      {
+        "trackNumber": 8,
+        "trackTitle": "Ordenspoliti",
+        "trackTimeInSeconds": 284,
+        "timesPlayed": 150,
+        "likes": 120,
+        "trackFavorites": 36
+      },
+      {
+        "trackNumber": 9,
+        "trackTitle": "USA DSB",
+        "trackTimeInSeconds": 354,
+        "timesPlayed": 190,
+        "likes": 145,
+        "trackFavorites": 44
+      },
+      {
+        "trackNumber": 10,
+        "trackTitle": "Bazooka",
+        "trackTimeInSeconds": 257,
+        "timesPlayed": 135,
+        "likes": 105,
+        "trackFavorites": 32
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "albumName": "Joyride",
+    "artistName": "Roxette",
+    "artistWebsite": "http://www.roxette.se/",
+    "productionYear": 1991,
+    "rating": 4.5,
+    "fullPlays": 580,
+    "favorites": 1100,
+    "trackList": [
+      {
+        "trackNumber": 1,
+        "trackTitle": "Joyride",
+        "trackTimeInSeconds": 264,
+        "timesPlayed": 175,
+        "likes": 135,
+        "trackFavorites": 40
+      },
+      {
+        "trackNumber": 2,
+        "trackTitle": "Hotblooded",
+        "trackTimeInSeconds": 198,
+        "timesPlayed": 130,
+        "likes": 100,
+        "trackFavorites": 30
+      },
+      {
+        "trackNumber": 3,
+        "trackTitle": "Fading like a flower (every time you leave)",
+        "trackTimeInSeconds": 233,
+        "timesPlayed": 155,
+        "likes": 120,
+        "trackFavorites": 35
+      },
+      {
+        "trackNumber": 4,
+        "trackTitle": "Knockin' on every door",
+        "trackTimeInSeconds": 237,
+        "timesPlayed": 160,
+        "likes": 125,
+        "trackFavorites": 37
+      },
+      {
+        "trackNumber": 5,
+        "trackTitle": "Spending my time",
+        "trackTimeInSeconds": 476,
+        "timesPlayed": 320,
+        "likes": 250,
+        "trackFavorites": 75
+      },
+      {
+        "trackNumber": 6,
+        "trackTitle": "I remember you",
+        "trackTimeInSeconds": 234,
+        "timesPlayed": 155,
+        "likes": 120,
+        "trackFavorites": 35
+      },
+      {
+        "trackNumber": 7,
+        "trackTitle": "Watercolors in the rain",
+        "trackTimeInSeconds": 221,
+        "timesPlayed": 145,
+        "likes": 115,
+        "trackFavorites": 34
+      },
+      {
+        "trackNumber": 8,
+        "trackTitle": "The big L",
+        "trackTimeInSeconds": 267,
+        "timesPlayed": 175,
+        "likes": 135,
+        "trackFavorites": 40
+      },
+      {
+        "trackNumber": 9,
+        "trackTitle": "Soul deep",
+        "trackTimeInSeconds": 215,
+        "timesPlayed": 140,
+        "likes": 110,
+        "trackFavorites": 33
+      },
+      {
+        "trackNumber": 10,
+        "trackTitle": "(Do you get) Excited",
+        "trackTimeInSeconds": 257,
+        "timesPlayed": 170,
+        "likes": 130,
+        "trackFavorites": 39
+      },
+      {
+        "trackNumber": 11,
+        "trackTitle": "Church of your heart",
+        "trackTimeInSeconds": 197,
+        "timesPlayed": 125,
+        "likes": 100,
+        "trackFavorites": 30
+      },
+      {
+        "trackNumber": 12,
+        "trackTitle": "Small talk",
+        "trackTimeInSeconds": 234,
+        "timesPlayed": 155,
+        "likes": 120,
+        "trackFavorites": 35
+      },
+      {
+        "trackNumber": 13,
+        "trackTitle": "Physical fascination",
+        "trackTimeInSeconds": 208,
+        "timesPlayed": 135,
+        "likes": 105,
+        "trackFavorites": 32
+      },
+      {
+        "trackNumber": 14,
+        "trackTitle": "Things will never be the same",
+        "trackTimeInSeconds": 266,
+        "timesPlayed": 170,
+        "likes": 130,
+        "trackFavorites": 39
+      },
+      {
+        "trackNumber": 15,
+        "trackTitle": "Perfect day",
+        "trackTimeInSeconds": 245,
+        "timesPlayed": 160,
+        "likes": 125,
+        "trackFavorites": 37
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "albumName": "Slippery When Wet",
+    "artistName": "Bon Jovi",
+    "artistWebsite": "http://www.bonjovi.com/",
+    "productionYear": 2010,
+    "rating": 4.6,
+    "fullPlays": 620,
+    "favorites": 1180,
+    "trackList": [
+      {
+        "trackNumber": 1,
+        "trackTitle": "Let it rock",
+        "trackTimeInSeconds": 326,
+        "timesPlayed": 210,
+        "likes": 160,
+        "trackFavorites": 48
+      },
+      {
+        "trackNumber": 2,
+        "trackTitle": "You give love a bad name",
+        "trackTimeInSeconds": 223,
+        "timesPlayed": 145,
+        "likes": 110,
+        "trackFavorites": 33
+      },
+      {
+        "trackNumber": 3,
+        "trackTitle": "Livin' on a prayer",
+        "trackTimeInSeconds": 250,
+        "timesPlayed": 160,
+        "likes": 125,
+        "trackFavorites": 37
+      },
+      {
+        "trackNumber": 4,
+        "trackTitle": "Social disease",
+        "trackTimeInSeconds": 258,
+        "timesPlayed": 165,
+        "likes": 130,
+        "trackFavorites": 39
+      },
+      {
+        "trackNumber": 5,
+        "trackTitle": "Wanted dead or alive",
+        "trackTimeInSeconds": 309,
+        "timesPlayed": 200,
+        "likes": 150,
+        "trackFavorites": 45
+      },
+      {
+        "trackNumber": 6,
+        "trackTitle": "Raise your hands",
+        "trackTimeInSeconds": 257,
+        "timesPlayed": 165,
+        "likes": 130,
+        "trackFavorites": 39
+      },
+      {
+        "trackNumber": 7,
+        "trackTitle": "Without love",
+        "trackTimeInSeconds": 221,
+        "timesPlayed": 140,
+        "likes": 110,
+        "trackFavorites": 33
+      },
+      {
+        "trackNumber": 8,
+        "trackTitle": "I'd die for you",
+        "trackTimeInSeconds": 271,
+        "timesPlayed": 175,
+        "likes": 135,
+        "trackFavorites": 40
+      },
+      {
+        "trackNumber": 9,
+        "trackTitle": "Never say goodbye",
+        "trackTimeInSeconds": 289,
+        "timesPlayed": 185,
+        "likes": 140,
+        "trackFavorites": 42
+      },
+      {
+        "trackNumber": 10,
+        "trackTitle": "Wild in the streets",
+        "trackTimeInSeconds": 235,
+        "timesPlayed": 150,
+        "likes": 115,
+        "trackFavorites": 34
+      },
+      {
+        "trackNumber": 11,
+        "trackTitle": "You give love a bad name - live version",
+        "trackTimeInSeconds": 251,
+        "timesPlayed": 160,
+        "likes": 125,
+        "trackFavorites": 37
+      },
+      {
+        "trackNumber": 12,
+        "trackTitle": "Livin' on a prayer - live version",
+        "trackTimeInSeconds": 334,
+        "timesPlayed": 215,
+        "likes": 165,
+        "trackFavorites": 49
+      },
+      {
+        "trackNumber": 13,
+        "trackTitle": "Wanted dead or alive - live version",
+        "trackTimeInSeconds": 323,
+        "timesPlayed": 210,
+        "likes": 160,
+        "trackFavorites": 48
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "albumName": "Crazy World",
+    "artistName": "Scorpions",
+    "artistWebsite": "http://www.the-scorpions.com/english/",
+    "productionYear": 1990,
+    "rating": 4.4,
+    "fullPlays": 560,
+    "favorites": 1020,
+    "trackList": [
+      {
+        "trackNumber": 1,
+        "trackTitle": "Tease me please",
+        "trackTimeInSeconds": 287,
+        "timesPlayed": 180,
+        "likes": 140,
+        "trackFavorites": 42
+      },
+      {
+        "trackNumber": 2,
+        "trackTitle": "Don't believe her",
+        "trackTimeInSeconds": 296,
+        "timesPlayed": 190,
+        "likes": 145,
+        "trackFavorites": 44
+      },
+      {
+        "trackNumber": 3,
+        "trackTitle": "To be with you in heaven",
+        "trackTimeInSeconds": 292,
+        "timesPlayed": 185,
+        "likes": 140,
+        "trackFavorites": 42
+      },
+      {
+        "trackNumber": 4,
+        "trackTitle": "Wind of change",
+        "trackTimeInSeconds": 314,
+        "timesPlayed": 200,
+        "likes": 150,
+        "trackFavorites": 45
+      },
+      {
+        "trackNumber": 5,
+        "trackTitle": "Restless nights",
+        "trackTimeInSeconds": 349,
+        "timesPlayed": 225,
+        "likes": 170,
+        "trackFavorites": 51
+      },
+      {
+        "trackNumber": 6,
+        "trackTitle": "Lust or love",
+        "trackTimeInSeconds": 263,
+        "timesPlayed": 165,
+        "likes": 125,
+        "trackFavorites": 37
+      },
+      {
+        "trackNumber": 7,
+        "trackTitle": "Kicks after six",
+        "trackTimeInSeconds": 220,
+        "timesPlayed": 140,
+        "likes": 110,
+        "trackFavorites": 33
+      },
+      {
+        "trackNumber": 8,
+        "trackTitle": "Hit between the eyes",
+        "trackTimeInSeconds": 273,
+        "timesPlayed": 175,
+        "likes": 135,
+        "trackFavorites": 40
+      },
+      {
+        "trackNumber": 9,
+        "trackTitle": "Money and fame",
+        "trackTimeInSeconds": 308,
+        "timesPlayed": 195,
+        "likes": 148,
+        "trackFavorites": 43
+      },
+      {
+        "trackNumber": 10,
+        "trackTitle": "Crazy world",
+        "trackTimeInSeconds": 309,
+        "timesPlayed": 195,
+        "likes": 148,
+        "trackFavorites": 43
+      },
+      {
+        "trackNumber": 11,
+        "trackTitle": "Send me an angel",
+        "trackTimeInSeconds": 274,
+        "timesPlayed": 175,
+        "likes": 135,
+        "trackFavorites": 40
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "albumName": "The Razors Edge",
+    "artistName": "AC/DC",
+    "artistWebsite": "http://www.acdc.com/us/home",
+    "productionYear": 1990,
+    "rating": 4.8,
+    "fullPlays": 730,
+    "favorites": 1350,
+    "trackList": [
+      {
+        "trackNumber": 1,
+        "trackTitle": "Thunderstruck",
+        "trackTimeInSeconds": 293,
+        "timesPlayed": 190,
+        "likes": 150,
+        "trackFavorites": 45
+      },
+      {
+        "trackNumber": 2,
+        "trackTitle": "Fire your guns",
+        "trackTimeInSeconds": 174,
+        "timesPlayed": 112,
+        "likes": 90,
+        "trackFavorites": 27
+      },
+      {
+        "trackNumber": 3,
+        "trackTitle": "Moneytalks",
+        "trackTimeInSeconds": 226,
+        "timesPlayed": 145,
+        "likes": 115,
+        "trackFavorites": 34
+      },
+      {
+        "trackNumber": 4,
+        "trackTitle": "The razors edge",
+        "trackTimeInSeconds": 263,
+        "timesPlayed": 170,
+        "likes": 130,
+        "trackFavorites": 39
+      },
+      {
+        "trackNumber": 5,
+        "trackTitle": "Mistress for christmas",
+        "trackTimeInSeconds": 240,
+        "timesPlayed": 155,
+        "likes": 120,
+        "trackFavorites": 36
+      },
+      {
+        "trackNumber": 6,
+        "trackTitle": "Rock your heart out",
+        "trackTimeInSeconds": 247,
+        "timesPlayed": 160,
+        "likes": 125,
+        "trackFavorites": 37
+      },
+      {
+        "trackNumber": 7,
+        "trackTitle": "Are you ready",
+        "trackTimeInSeconds": 251,
+        "timesPlayed": 162,
+        "likes": 126,
+        "trackFavorites": 38
+      },
+      {
+        "trackNumber": 8,
+        "trackTitle": "Got you by the balls",
+        "trackTimeInSeconds": 271,
+        "timesPlayed": 175,
+        "likes": 135,
+        "trackFavorites": 40
+      },
+      {
+        "trackNumber": 9,
+        "trackTitle": "Shot of love",
+        "trackTimeInSeconds": 237,
+        "timesPlayed": 152,
+        "likes": 118,
+        "trackFavorites": 35
+      },
+      {
+        "trackNumber": 10,
+        "trackTitle": "Let's make it",
+        "trackTimeInSeconds": 213,
+        "timesPlayed": 137,
+        "likes": 105,
+        "trackFavorites": 31
+      },
+      {
+        "trackNumber": 11,
+        "trackTitle": "Goodbye and good riddance to bad luck",
+        "trackTimeInSeconds": 194,
+        "timesPlayed": 125,
+        "likes": 95,
+        "trackFavorites": 28
+      },
+      {
+        "trackNumber": 12,
+        "trackTitle": "If you dare",
+        "trackTimeInSeconds": 199,
+        "timesPlayed": 128,
+        "likes": 98,
+        "trackFavorites": 29
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "albumName": "Electric Dreams",
+    "artistName": "Synthwave Masters",
+    "artistWebsite": "http://www.synthwavemasters.com/",
+    "productionYear": 2022,
+    "rating": 4.2,
+    "fullPlays": 850,
+    "favorites": 1200,
+    "trackList": [
+      {
+        "trackNumber": 1,
+        "trackTitle": "Neon Nights",
+        "trackTimeInSeconds": 256,
+        "timesPlayed": 130,
+        "likes": 100,
+        "trackFavorites": 28
+      },
+      {
+        "trackNumber": 2,
+        "trackTitle": "Midnight Drive",
+        "trackTimeInSeconds": 292,
+        "timesPlayed": 150,
+        "likes": 110,
+        "trackFavorites": 30
+      },
+      {
+        "trackNumber": 3,
+        "trackTitle": "Digital Dreamscape",
+        "trackTimeInSeconds": 312,
+        "timesPlayed": 160,
+        "likes": 120,
+        "trackFavorites": 32
+      },
+      {
+        "trackNumber": 4,
+        "trackTitle": "Synthetic Heartbeat",
+        "trackTimeInSeconds": 276,
+        "timesPlayed": 140,
+        "likes": 105,
+        "trackFavorites": 29
+      },
+      {
+        "trackNumber": 5,
+        "trackTitle": "Vapor Trails",
+        "trackTimeInSeconds": 288,
+        "timesPlayed": 148,
+        "likes": 112,
+        "trackFavorites": 31
+      },
+      {
+        "trackNumber": 6,
+        "trackTitle": "Cybernetic Odyssey",
+        "trackTimeInSeconds": 324,
+        "timesPlayed": 166,
+        "likes": 126,
+        "trackFavorites": 34
+      },
+      {
+        "trackNumber": 7,
+        "trackTitle": "Into the Mainframe",
+        "trackTimeInSeconds": 301,
+        "timesPlayed": 155,
+        "likes": 118,
+        "trackFavorites": 33
+      },
+      {
+        "trackNumber": 8,
+        "trackTitle": "Future Echoes",
+        "trackTimeInSeconds": 268,
+        "timesPlayed": 138,
+        "likes": 103,
+        "trackFavorites": 28
+      },
+      {
+        "trackNumber": 9,
+        "trackTitle": "Starlight Serenade",
+        "trackTimeInSeconds": 285,
+        "timesPlayed": 147,
+        "likes": 110,
+        "trackFavorites": 30
+      },
+      {
+        "trackNumber": 10,
+        "trackTitle": "Electric Dreams",
+        "trackTimeInSeconds": 304,
+        "timesPlayed": 156,
+        "likes": 120,
+        "trackFavorites": 32
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "albumName": "Epic Jams",
+    "artistName": "Groove Collective",
+    "artistWebsite": "http://www.groovecollective.com/",
+    "productionYear": 2021,
+    "rating": 4.5,
+    "fullPlays": 720,
+    "favorites": 1500,
+    "trackList": [
+      {
+        "trackNumber": 1,
+        "trackTitle": "Funky Fusion",
+        "trackTimeInSeconds": 312,
+        "timesPlayed": 160,
+        "likes": 130,
+        "trackFavorites": 38
+      },
+      {
+        "trackNumber": 2,
+        "trackTitle": "Soulful Groove",
+        "trackTimeInSeconds": 278,
+        "timesPlayed": 145,
+        "likes": 120,
+        "trackFavorites": 35
+      },
+      {
+        "trackNumber": 3,
+        "trackTitle": "Jazz Infusion",
+        "trackTimeInSeconds": 326,
+        "timesPlayed": 168,
+        "likes": 140,
+        "trackFavorites": 41
+      },
+      {
+        "trackNumber": 4,
+        "trackTitle": "Funky Vibes",
+        "trackTimeInSeconds": 294,
+        "timesPlayed": 152,
+        "likes": 125,
+        "trackFavorites": 37
+      },
+      {
+        "trackNumber": 5,
+        "trackTitle": "Smooth Rhythms",
+        "trackTimeInSeconds": 321,
+        "timesPlayed": 165,
+        "likes": 135,
+        "trackFavorites": 40
+      },
+      {
+        "trackNumber": 6,
+        "trackTitle": "Groove Revolution",
+        "trackTimeInSeconds": 303,
+        "timesPlayed": 156,
+        "likes": 128,
+        "trackFavorites": 39
+      },
+      {
+        "trackNumber": 7,
+        "trackTitle": "Fusion Dreams",
+        "trackTimeInSeconds": 314,
+        "timesPlayed": 162,
+        "likes": 133,
+        "trackFavorites": 38
+      },
+      {
+        "trackNumber": 8,
+        "trackTitle": "Jam Session",
+        "trackTimeInSeconds": 289,
+        "timesPlayed": 148,
+        "likes": 123,
+        "trackFavorites": 36
+      },
+      {
+        "trackNumber": 9,
+        "trackTitle": "Groove Odyssey",
+        "trackTimeInSeconds": 330,
+        "timesPlayed": 170,
+        "likes": 142,
+        "trackFavorites": 42
+      },
+      {
+        "trackNumber": 10,
+        "trackTitle": "Epic Jam Finale",
+        "trackTimeInSeconds": 356,
+        "timesPlayed": 182,
+        "likes": 150,
+        "trackFavorites": 45
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "albumName": "Electric Symphony",
+    "artistName": "Synthwave Legends",
+    "artistWebsite": "http://www.synthwavelegends.com/",
+    "productionYear": 2022,
+    "rating": 4.7,
+    "fullPlays": 1500,
+    "favorites": 2800,
+    "trackList": [
+      {
+        "trackNumber": 1,
+        "trackTitle": "Cyber Pulse",
+        "trackTimeInSeconds": 256,
+        "timesPlayed": 160,
+        "likes": 143,
+        "trackFavorites": 39
+      },
+      {
+        "trackNumber": 2,
+        "trackTitle": "Neon Nights",
+        "trackTimeInSeconds": 278,
+        "timesPlayed": 175,
+        "likes": 155,
+        "trackFavorites": 47
+      },
+      {
+        "trackNumber": 3,
+        "trackTitle": "Synthetic Dreams",
+        "trackTimeInSeconds": 312,
+        "timesPlayed": 190,
+        "likes": 168,
+        "trackFavorites": 52
+      },
+      {
+        "trackNumber": 4,
+        "trackTitle": "Electric Euphoria",
+        "trackTimeInSeconds": 289,
+        "timesPlayed": 180,
+        "likes": 160,
+        "trackFavorites": 50
+      },
+      {
+        "trackNumber": 5,
+        "trackTitle": "Digital Escape",
+        "trackTimeInSeconds": 321,
+        "timesPlayed": 195,
+        "likes": 175,
+        "trackFavorites": 56
+      },
+      {
+        "trackNumber": 6,
+        "trackTitle": "Virtuoso Voyage",
+        "trackTimeInSeconds": 303,
+        "timesPlayed": 190,
+        "likes": 170,
+        "trackFavorites": 54
+      },
+      {
+        "trackNumber": 7,
+        "trackTitle": "Trance Encounter",
+        "trackTimeInSeconds": 314,
+        "timesPlayed": 195,
+        "likes": 173,
+        "trackFavorites": 55
+      },
+      {
+        "trackNumber": 8,
+        "trackTitle": "Synthwave Symphony",
+        "trackTimeInSeconds": 289,
+        "timesPlayed": 185,
+        "likes": 165,
+        "trackFavorites": 53
+      },
+      {
+        "trackNumber": 9,
+        "trackTitle": "Futuristic Fusion",
+        "trackTimeInSeconds": 330,
+        "timesPlayed": 205,
+        "likes": 182,
+        "trackFavorites": 58
+      },
+      {
+        "trackNumber": 10,
+        "trackTitle": "Electric Odyssey",
+        "trackTimeInSeconds": 356,
+        "timesPlayed": 220,
+        "likes": 200,
+        "trackFavorites": 63
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "albumName": "Lost in Time",
+    "artistName": "Timeless Echoes",
+    "artistWebsite": "http://www.timelessechoesmusic.com/",
+    "productionYear": 2023,
+    "rating": 4.9,
+    "fullPlays": 1200,
+    "favorites": 2600,
+    "trackList": [
+      {
+        "trackNumber": 1,
+        "trackTitle": "Chrono Prelude",
+        "trackTimeInSeconds": 246,
+        "timesPlayed": 135,
+        "likes": 128,
+        "trackFavorites": 38
+      },
+      {
+        "trackNumber": 2,
+        "trackTitle": "Temporal Odyssey",
+        "trackTimeInSeconds": 278,
+        "timesPlayed": 155,
+        "likes": 143,
+        "trackFavorites": 41
+      },
+      {
+        "trackNumber": 3,
+        "trackTitle": "Eternal Voyage",
+        "trackTimeInSeconds": 312,
+        "timesPlayed": 170,
+        "likes": 156,
+        "trackFavorites": 45
+      },
+      {
+        "trackNumber": 4,
+        "trackTitle": "Infinity Dreams",
+        "trackTimeInSeconds": 289,
+        "timesPlayed": 165,
+        "likes": 150,
+        "trackFavorites": 43
+      },
+      {
+        "trackNumber": 5,
+        "trackTitle": "Timeless Serenity",
+        "trackTimeInSeconds": 321,
+        "timesPlayed": 180,
+        "likes": 168,
+        "trackFavorites": 50
+      },
+      {
+        "trackNumber": 6,
+        "trackTitle": "Parallel Realms",
+        "trackTimeInSeconds": 303,
+        "timesPlayed": 175,
+        "likes": 162,
+        "trackFavorites": 48
+      },
+      {
+        "trackNumber": 7,
+        "trackTitle": "Temporal Echoes",
+        "trackTimeInSeconds": 314,
+        "timesPlayed": 190,
+        "likes": 175,
+        "trackFavorites": 53
+      },
+      {
+        "trackNumber": 8,
+        "trackTitle": "Dimensional Drift",
+        "trackTimeInSeconds": 289,
+        "timesPlayed": 185,
+        "likes": 170,
+        "trackFavorites": 52
+      },
+      {
+        "trackNumber": 9,
+        "trackTitle": "Time Warp Waltz",
+        "trackTimeInSeconds": 330,
+        "timesPlayed": 200,
+        "likes": 182,
+        "trackFavorites": 58
+      },
+      {
+        "trackNumber": 10,
+        "trackTitle": "Lost in Eternity",
+        "trackTimeInSeconds": 356,
+        "timesPlayed": 215,
+        "likes": 198,
+        "trackFavorites": 61
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "albumName": "Summer Vibes",
+    "artistName": "Sunset Groove",
+    "artistWebsite": "http://www.sunsetgroovemusic.com/",
+    "productionYear": 2021,
+    "rating": 4.6,
+    "fullPlays": 950,
+    "favorites": 2200,
+    "trackList": [
+      {
+        "trackNumber": 1,
+        "trackTitle": "Beach Sunset",
+        "trackTimeInSeconds": 312,
+        "timesPlayed": 150,
+        "likes": 135,
+        "trackFavorites": 42
+      },
+      {
+        "trackNumber": 2,
+        "trackTitle": "Tropical Breeze",
+        "trackTimeInSeconds": 278,
+        "timesPlayed": 165,
+        "likes": 148,
+        "trackFavorites": 39
+      },
+      {
+        "trackNumber": 3,
+        "trackTitle": "Island Paradise",
+        "trackTimeInSeconds": 334,
+        "timesPlayed": 160,
+        "likes": 143,
+        "trackFavorites": 36
+      },
+      {
+        "trackNumber": 4,
+        "trackTitle": "Summer Dreams",
+        "trackTimeInSeconds": 289,
+        "timesPlayed": 175,
+        "likes": 160,
+        "trackFavorites": 47
+      },
+      {
+        "trackNumber": 5,
+        "trackTitle": "Sandy Shores",
+        "trackTimeInSeconds": 321,
+        "timesPlayed": 170,
+        "likes": 155,
+        "trackFavorites": 45
+      },
+      {
+        "trackNumber": 6,
+        "trackTitle": "Coastal Serenity",
+        "trackTimeInSeconds": 303,
+        "timesPlayed": 180,
+        "likes": 165,
+        "trackFavorites": 50
+      },
+      {
+        "trackNumber": 7,
+        "trackTitle": "Ocean Escape",
+        "trackTimeInSeconds": 314,
+        "timesPlayed": 195,
+        "likes": 178,
+        "trackFavorites": 55
+      },
+      {
+        "trackNumber": 8,
+        "trackTitle": "Sunrise Magic",
+        "trackTimeInSeconds": 289,
+        "timesPlayed": 185,
+        "likes": 163,
+        "trackFavorites": 52
+      },
+      {
+        "trackNumber": 9,
+        "trackTitle": "Beach Bonfire",
+        "trackTimeInSeconds": 330,
+        "timesPlayed": 200,
+        "likes": 175,
+        "trackFavorites": 53
+      },
+      {
+        "trackNumber": 10,
+        "trackTitle": "Tiki Bar Groove",
+        "trackTimeInSeconds": 356,
+        "timesPlayed": 215,
+        "likes": 190,
+        "trackFavorites": 58
+      }
+    ]
+  }
+]
