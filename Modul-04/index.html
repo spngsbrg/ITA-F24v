@@ -2,111 +2,28 @@
 <html>
   <head>
     <meta charset="UTF-8" />
-    <title>Main</title>
+    <title>DOM-manipulation</title>
+    <link href="styles.css" media="screen" rel="stylesheet" />
   </head>
-
   <body>
     <div>
-      <a href="form.html">Form - DOM</a>
+      <h1>DOM-manipulation</h1>
     </div>
-    <div>
-      <a href="compare.html">Compare</a>
+    <div id="main-content-area"></div>
+
+    <div id="sidebar">
+      <h3>Links:</h3>
+      <ul>
+        <li><a id="link0" href="http://www.google.com">Google</a></li>
+        <li><a id="link1" href="http://www.facebook.com">Facebook</a></li>
+        <li><a id="link2" href="http://www.twitter.com">Twitter</a></li>
+        <li><a id="link3" href="http://www.x.com">X</a></li>
+        <li>
+          <a id="link4" href="http://www.eaaa.dk">Erhvervsakademi Aarhus</a>
+        </li>
+      </ul>
     </div>
-    <div>
-      <a href="search.html">Kontrolstrukturer</a>
-    </div>
-    <div>
-      <a href="position.html">Eventlisteners</a>
-    </div>
 
-    <div id="main-div"></div>
-
-    <script>
-      let loremArray = [
-        "Lorem ipsum dolor sit amet",
-        "consectetur adipiscing elit",
-        "sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-        "Ut enim ad minim veniam",
-      ];
-
-      const mainElement = document.getElementById("main-div");
-
-      for (let i = 0; i < loremArray.length; i++) {
-        let h1Element = document.createElement("h1");
-        h1Element.innerHTML = loremArray[i];
-        h1Element.id = i;
-
-        mainElement.appendChild(h1Element);
-      }
-
-      /*
-      let newspaperArticles = [
-        {
-          title: "Breaking News: Earthquake Hits California",
-          author: "John Smith",
-          date: "2023-09-25",
-          content:
-            "A powerful earthquake struck California today, rattling buildings and causing widespread panic among residents. The earthquake, which measured 6.5 on the Richter scale, originated in the San Andreas Fault and was felt across the entire state. While there have been reports of structural damage to some buildings, authorities have not yet confirmed any casualties.\n\nEmergency response teams are on high alert, and residents are being advised to stay indoors and away from tall structures. The governor has declared a state of emergency, and relief efforts are underway to provide assistance to those affected.\n\nScientists and seismologists are closely monitoring the situation, warning that aftershocks are likely to occur in the coming days. California, known for its seismic activity, has been preparing for the 'Big One,' and this event serves as a stark reminder of the importance of earthquake preparedness.",
-        },
-        {
-          title: "Economic Update: Stock Market Reaches Record High",
-          author: "Jane Doe",
-          date: "2023-09-24",
-          content:
-            "In a surprising turn of events, the stock market reached an unprecedented milestone today, with the Dow Jones Industrial Average surging to a record high of 35,000 points. This historic achievement comes on the back of a strong economic recovery, robust corporate earnings, and positive investor sentiment.\n\nAnalysts attribute the market's bullish run to a series of factors, including low interest rates, fiscal stimulus measures, and the rapid pace of technological innovation. Tech giants like Apple, Amazon, and Google parent company Alphabet saw their stock prices soar, contributing significantly to the market's gains.\n\nInvestors are optimistic about the future, but there are concerns about the sustainability of this rally. Some experts warn of potential market volatility in the coming months, urging caution for investors. Nonetheless, today's milestone is a testament to the resilience of the U.S. economy in the face of numerous challenges.",
-        },
-        {
-          title: "Technology Advancements: AI Breakthroughs in 2023",
-          author: "David Brown",
-          date: "2023-09-23",
-          content:
-            "Artificial Intelligence (AI) continues to make significant progress in 2023, with groundbreaking developments across various sectors. One of the most notable advancements is in healthcare, where AI-powered diagnostics and treatment recommendations are revolutionizing patient care.\n\nResearchers have also made strides in natural language processing (NLP), enabling AI systems to understand and generate human-like text with remarkable accuracy. This has implications for chatbots, content generation, and language translation services.\n\nIn the field of autonomous vehicles, AI-driven self-driving cars are becoming more sophisticated, promising safer and more efficient transportation. Major tech companies are investing heavily in this technology, with widespread adoption on the horizon.\n\nAI's impact on finance, agriculture, and entertainment is also gaining momentum, with companies leveraging machine learning and data analytics to gain a competitive edge. As AI continues to evolve, its potential to reshape industries and improve our daily lives becomes increasingly evident.",
-        },
-        {
-          title: "Sports News: Team X Wins Championship",
-          author: "Sarah Johnson",
-          date: "2023-09-22",
-          content:
-            "Team X emerged victorious in the championship game, securing their place in sports history. In a thrilling match that had fans on the edge of their seats, Team X defeated their arch-rivals, Team Y, in a closely contested battle that went into overtime.\n\nThe star player for Team X, John Smith, delivered a remarkable performance, scoring the winning goal in the final minutes of the game. Smith's exceptional skills and leadership on the field earned him the Most Valuable Player (MVP) award.\n\nThe championship victory marks a triumphant moment for Team X, who had been striving for this title for years. Fans celebrated in the streets, and the team was greeted with a hero's welcome upon their return to the city. The championship win is a testament to the dedication and hard work of the entire team, and it will be remembered as one of the greatest moments in the history of the sport.",
-        },
-        {
-          title: "Health Update: New Vaccine Shows Promise",
-          author: "Michael White",
-          date: "2023-09-21",
-          content:
-            "A new vaccine has shown promising results in clinical trials, offering hope in the fight against a challenging disease. Developed by a team of dedicated scientists, this vaccine targets a highly contagious virus that has caused significant public health concerns.\n\nPreliminary data from the trials indicate that the vaccine is highly effective at preventing infection and reducing the severity of symptoms in those who do contract the virus. This breakthrough has raised optimism among healthcare professionals and the general population alike.\n\nThe development and testing of vaccines like this one represent a significant step forward in controlling the spread of infectious diseases. Regulatory agencies are closely monitoring the progress, and if all goes well, this vaccine could receive emergency use authorization in the near future. It's a ray of hope in these challenging times, and scientists are working tirelessly to ensure its safety and efficacy.",
-        },
-        {
-          title: "Entertainment Buzz: Latest Movie Blockbuster",
-          author: "Emily Green",
-          date: "2023-09-20",
-          content:
-            "The latest movie blockbuster is breaking box office records and captivating audiences worldwide. This epic cinematic masterpiece, directed by a renowned filmmaker, features a star-studded cast and groundbreaking special effects that have left audiences in awe.\n\nCritics and viewers alike have praised the film's compelling storyline, stunning visuals, and unforgettable performances. The movie's plot, set in a fictional world, explores themes of love, sacrifice, and the triumph of good over evil.\n\nFans have flocked to theaters in droves, and the film's opening weekend shattered previous records, making it the highest-grossing movie debut in history. Social media is abuzz with discussions and theories about the film's hidden meanings and potential sequels.\n\nAs the movie continues to dominate the box office, it's clear that it has struck a chord with audiences of all ages, making it a cultural phenomenon and a must-see for cinephiles everywhere.",
-        },
-      ];
-
-      for (let i = 0; i < newspaperArticles.length; i++) {
-        let article = document.createElement("div");
-        article.id = i;
-        let h1Element = document.createElement("h1");
-        h1Element.innerHTML = newspaperArticles[i].title;
-
-        let content = document.createElement("p");
-        content.innerHTML = newspaperArticles[i].content;
-
-        article.appendChild(h1Element);
-        article.appendChild(content);
-
-        mainElement.appendChild(article);
-      }
-
-      let redElement = document.getElementById("1");
-      let redElement2 = document.getElementById("3");
-
-      redElement.style.color = "red";
-      redElement2.style.color = "red";
-      
-      */
-    </script>
+    <script src="script.js"></script>
   </body>
 </html>

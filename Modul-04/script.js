@@ -58,30 +58,44 @@ mainContentArea.innerHTML = mainContentArea.innerHTML + articleToInsert;*/
 
 let mainContentArea = document.getElementById("main-content-area");
 
-fetchData("/data.json").then((data) => {
+fetchData("../modul-03/data.json").then((data) => {
   console.log(data);
 
-  for (let i = 0; i < data.length; i++) {
+  //for (let i = 0; i < data.length; i++)
+
+  data.forEach(generateAndInsertArticles);
+
+  /*HUSK sekvensen af parametrene i funktionen!!! 
+    første = elementet/værdien
+    andet = index for elementet/værdien
+    tredje = selve arrayet, vi arbejder på
+  */
+
+  function generateAndInsertArticles(value, index, array) {
+    console.log(value);
+    console.log(index);
+    console.log(array);
+
     let author = "";
     let email = "";
 
-    if (data[i].author == "Foo Bar") {
+    if (value.author == "Foo Bar") {
       author = "Anomymous";
       email = "info@info.com";
     } else {
-      author = data[i].author;
-      email = data[i].email;
+      author = value.author;
+      email = value.email;
     }
 
     let articleToInsert =
       "<div id='" +
-      data[i].id +
+      value.id +
       "' class='content'>" +
       "<h1>" +
-      data[i].heading +
+      value.heading +
       "</h1>" +
       "<p class='inner-content'>" +
-      data[i].content +
+      value.content +
       "</p>" +
       "<p class='author'>" +
       author +
@@ -92,6 +106,17 @@ fetchData("/data.json").then((data) => {
       "</div>";
 
     mainContentArea.innerHTML = mainContentArea.innerHTML + articleToInsert;
+  }
+
+  let authorElements = document.getElementsByClassName("author");
+
+  console.log(authorElements);
+
+  for (let i = 0; i < authorElements.length; i++) {
+    if (authorElements[i].innerText === "Anomymous") {
+      authorElements[i].style.color = "pink";
+      console.log(authorElements[i]);
+    }
   }
 });
 
