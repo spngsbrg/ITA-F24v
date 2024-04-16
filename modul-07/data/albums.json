@@ -1,0 +1,820 @@
+[
+  {
+    "id": 0,
+    "albumName": "Greatest hits",
+    "artistName": "ZZ-top",
+    "artistWebsite": "http://www.zztop.com/",
+    "productionYear": 1992,
+    "trackList": [
+      {
+        "trackNumber": 1,
+        "trackTitle": "Gimme all your lovin'",
+        "trackTimeInSeconds": 241
+      },
+
+      {
+        "trackNumber": 2,
+        "trackTitle": "sharp dressed man",
+        "trackTimeInSeconds": 256
+      },
+
+      {
+        "trackNumber": 3,
+        "trackTitle": "Rough boy",
+        "trackTimeInSeconds": 290
+      },
+
+      {
+        "trackNumber": 4,
+        "trackTitle": "Tush",
+        "trackTimeInSeconds": 135
+      },
+
+      {
+        "trackNumber": 5,
+        "trackTitle": "My head's in Mississippi",
+        "trackTimeInSeconds": 261
+      },
+
+      {
+        "trackNumber": 6,
+        "trackTitle": "Pearl Necklace",
+        "trackTimeInSeconds": 246
+      },
+
+      {
+        "trackNumber": 7,
+        "trackTitle": "I'm bad, I'm nationwide",
+        "trackTimeInSeconds": 287
+      },
+
+      {
+        "trackNumber": 8,
+        "trackTitle": "Viva Las Vegas",
+        "trackTimeInSeconds": 288
+      },
+
+      {
+        "trackNumber": 9,
+        "trackTitle": "Doubleback",
+        "trackTimeInSeconds": 236
+      },
+
+      {
+        "trackNumber": 10,
+        "trackTitle": "Gun Love",
+        "trackTimeInSeconds": 220
+      },
+
+      {
+        "trackNumber": 11,
+        "trackTitle": "Got me under pressure",
+        "trackTimeInSeconds": 241
+      },
+
+      {
+        "trackNumber": 12,
+        "trackTitle": "Give it up",
+        "trackTimeInSeconds": 210
+      },
+
+      {
+        "trackNumber": 13,
+        "trackTitle": "Cheap sunglasses",
+        "trackTimeInSeconds": 287
+      },
+
+      {
+        "trackNumber": 14,
+        "trackTitle": "Sleeping bag",
+        "trackTimeInSeconds": 244
+      },
+
+      {
+        "trackNumber": 15,
+        "trackTitle": "Planet of women",
+        "trackTimeInSeconds": 246
+      },
+
+      {
+        "trackNumber": 16,
+        "trackTitle": "La Grange",
+        "trackTimeInSeconds": 233
+      },
+
+      {
+        "trackNumber": 17,
+        "trackTitle": "Tube snake boogie",
+        "trackTimeInSeconds": 185
+      },
+
+      {
+        "trackNumber": 18,
+        "trackTitle": "Legs-remix version",
+        "trackTimeInSeconds": 272
+      }
+    ]
+  },
+
+  {
+    "id": 1,
+    "albumName": "Wild Cherry",
+    "artistName": "Wild Cherry",
+    "artistWebsite": "http://en.wikipedia.org/wiki/Wild_Cherry_%28band%29",
+    "productionYear": 1976,
+    "trackList": [
+      {
+        "trackNumber": 1,
+        "trackTitle": "Play that funky music",
+        "trackTimeInSeconds": 300
+      },
+
+      {
+        "trackNumber": 2,
+        "trackTitle": "The lady wants your money",
+        "trackTimeInSeconds": 251
+      },
+
+      {
+        "trackNumber": 3,
+        "trackTitle": "99 1/2",
+        "trackTimeInSeconds": 178
+      },
+
+      {
+        "trackNumber": 4,
+        "trackTitle": "Don't go near the water",
+        "trackTimeInSeconds": 196
+      },
+
+      {
+        "trackNumber": 5,
+        "trackTitle": "Nowhere to rum",
+        "trackTimeInSeconds": 183
+      },
+
+      {
+        "trackNumber": 6,
+        "trackTitle": "I feel sanctified",
+        "trackTimeInSeconds": 228
+      },
+
+      {
+        "trackNumber": 7,
+        "trackTitle": "Hold on",
+        "trackTimeInSeconds": 249
+      },
+
+      {
+        "trackNumber": 8,
+        "trackTitle": "Get it up",
+        "trackTimeInSeconds": 178
+      },
+
+      {
+        "trackNumber": 9,
+        "trackTitle": "What in the funk do you see",
+        "trackTimeInSeconds": 206
+      }
+    ]
+  },
+
+  {
+    "id": 2,
+    "albumName": "Meteora",
+    "artistName": "Linkin Park",
+    "artistWebsite": "http://www.linkinpark.com/",
+    "productionYear": 2003,
+    "trackList": [
+      {
+        "trackNumber": 1,
+        "trackTitle": "Foreword",
+        "trackTimeInSeconds": 14
+      },
+
+      {
+        "trackNumber": 2,
+        "trackTitle": "Don't stay",
+        "trackTimeInSeconds": 188
+      },
+
+      {
+        "trackNumber": 3,
+        "trackTitle": "Somewhere I belong",
+        "trackTimeInSeconds": 217
+      },
+
+      {
+        "trackNumber": 4,
+        "trackTitle": "Lying from you",
+        "trackTimeInSeconds": 175
+      },
+
+      {
+        "trackNumber": 5,
+        "trackTitle": "Hot the floor",
+        "trackTimeInSeconds": 164
+      },
+
+      {
+        "trackNumber": 6,
+        "trackTitle": "Easier to run",
+        "trackTimeInSeconds": 204
+      },
+
+      {
+        "trackNumber": 7,
+        "trackTitle": "Faint",
+        "trackTimeInSeconds": 164
+      },
+
+      {
+        "trackNumber": 8,
+        "trackTitle": "Figure.09",
+        "trackTimeInSeconds": 198
+      },
+
+      {
+        "trackNumber": 9,
+        "trackTitle": "Breaking the habit",
+        "trackTimeInSeconds": 197
+      },
+
+      {
+        "trackNumber": 10,
+        "trackTitle": "From the inside",
+        "trackTimeInSeconds": 176
+      },
+      {
+        "trackNumber": 11,
+        "trackTitle": "Nobody's listening",
+        "trackTimeInSeconds": 179
+      },
+      {
+        "trackNumber": 12,
+        "trackTitle": "Session",
+        "trackTimeInSeconds": 144
+      },
+      {
+        "trackNumber": 13,
+        "trackTitle": "Numb",
+        "trackTimeInSeconds": 188
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "albumName": "Top gun - motion picture soundtrack",
+    "artistName": "Various",
+    "artistWebsite": "NIL",
+    "productionYear": 1989,
+    "trackList": [
+      {
+        "trackNumber": 1,
+        "trackTitle": "Danger zone",
+        "trackTimeInSeconds": 216
+      },
+
+      {
+        "trackNumber": 2,
+        "trackTitle": "Mighty wings",
+        "trackTimeInSeconds": 231
+      },
+
+      {
+        "trackNumber": 3,
+        "trackTitle": "Playing with the boys",
+        "trackTimeInSeconds": 240
+      },
+
+      {
+        "trackNumber": 4,
+        "trackTitle": "Lead me on",
+        "trackTimeInSeconds": 228
+      },
+
+      {
+        "trackNumber": 5,
+        "trackTitle": "Take my breath away",
+        "trackTimeInSeconds": 256
+      },
+
+      {
+        "trackNumber": 6,
+        "trackTitle": "Hot summer nights",
+        "trackTimeInSeconds": 219
+      },
+
+      {
+        "trackNumber": 7,
+        "trackTitle": "Heaven in your eyes",
+        "trackTimeInSeconds": 244
+      },
+
+      {
+        "trackNumber": 8,
+        "trackTitle": "Through the fire",
+        "trackTimeInSeconds": 226
+      },
+
+      {
+        "trackNumber": 9,
+        "trackTitle": "Destination unknown",
+        "trackTimeInSeconds": 229
+      },
+
+      {
+        "trackNumber": 10,
+        "trackTitle": "Top gun anthem",
+        "trackTimeInSeconds": 252
+      }
+    ]
+  },
+
+  {
+    "id": 4,
+    "albumName": "Hjertestarter - bonus edition",
+    "artistName": "Nephew",
+    "artistWebsite": "http://www.nephew.dk",
+    "productionYear": 2013,
+    "trackList": [
+      {
+        "trackNumber": 1,
+        "trackTitle": "Hjertestarter",
+        "trackTimeInSeconds": 304
+      },
+
+      {
+        "trackNumber": 2,
+        "trackTitle": "Klokken 25",
+        "trackTimeInSeconds": 244
+      },
+
+      {
+        "trackNumber": 3,
+        "trackTitle": "Alt er hårdt",
+        "trackTimeInSeconds": 277
+      },
+
+      {
+        "trackNumber": 4,
+        "trackTitle": "Åh gud (jeg håber du holder øje med mig)",
+        "trackTimeInSeconds": 354
+      },
+
+      {
+        "trackNumber": 5,
+        "trackTitle": "Tak du",
+        "trackTimeInSeconds": 275
+      },
+
+      {
+        "trackNumber": 6,
+        "trackTitle": "Gå med dig",
+        "trackTimeInSeconds": 273
+      },
+
+      {
+        "trackNumber": 7,
+        "trackTitle": "De satans hæmninger",
+        "trackTimeInSeconds": 333
+      },
+
+      {
+        "trackNumber": 8,
+        "trackTitle": "Søndagsbange",
+        "trackTimeInSeconds": 260
+      },
+
+      {
+        "trackNumber": 9,
+        "trackTitle": "Alt er synd",
+        "trackTimeInSeconds": 343
+      },
+
+      {
+        "trackNumber": 10,
+        "trackTitle": "Fem rum",
+        "trackTimeInSeconds": 317
+      },
+
+      {
+        "trackNumber": 11,
+        "trackTitle": "Gå med dig",
+        "trackTimeInSeconds": 246
+      }
+    ]
+  },
+
+  {
+    "id": 5,
+    "albumName": "USADSB",
+    "artistName": "Nephew",
+    "artistWebsite": "http://www.nephew.dk",
+    "productionYear": 2004,
+    "trackList": [
+      {
+        "trackNumber": 1,
+        "trackTitle": "Movie klip",
+        "trackTimeInSeconds": 304
+      },
+
+      {
+        "trackNumber": 2,
+        "trackTitle": "Superliga",
+        "trackTimeInSeconds": 223
+      },
+
+      {
+        "trackNumber": 3,
+        "trackTitle": "Blå & black",
+        "trackTimeInSeconds": 209
+      },
+
+      {
+        "trackNumber": 4,
+        "trackTitle": "Milk & wine",
+        "trackTimeInSeconds": 257
+      },
+
+      {
+        "trackNumber": 5,
+        "trackTitle": "Dårlig træning",
+        "trackTimeInSeconds": 320
+      },
+
+      {
+        "trackNumber": 6,
+        "trackTitle": "En wannabe Dath Vader",
+        "trackTimeInSeconds": 260
+      },
+
+      {
+        "trackNumber": 7,
+        "trackTitle": "Worst / best case scenario",
+        "trackTimeInSeconds": 267
+      },
+
+      {
+        "trackNumber": 8,
+        "trackTitle": "Ordenspoliti",
+        "trackTimeInSeconds": 284
+      },
+
+      {
+        "trackNumber": 9,
+        "trackTitle": "USA DSB",
+        "trackTimeInSeconds": 354
+      },
+
+      {
+        "trackNumber": 10,
+        "trackTitle": "Bazooka",
+        "trackTimeInSeconds": 257
+      }
+    ]
+  },
+
+  {
+    "id": 6,
+    "albumName": "Joyride",
+    "artistName": "Roxette",
+    "artistWebsite": "http://www.roxette.se/",
+    "productionYear": 1991,
+    "trackList": [
+      {
+        "trackNumber": 1,
+        "trackTitle": "Joyride",
+        "trackTimeInSeconds": 264
+      },
+
+      {
+        "trackNumber": 2,
+        "trackTitle": "Hotblooded",
+        "trackTimeInSeconds": 198
+      },
+
+      {
+        "trackNumber": 3,
+        "trackTitle": "Fading like a flower (every time you leave)",
+        "trackTimeInSeconds": 233
+      },
+
+      {
+        "trackNumber": 4,
+        "trackTitle": "Knockin' on every door",
+        "trackTimeInSeconds": 237
+      },
+
+      {
+        "trackNumber": 5,
+        "trackTitle": "Spending my time",
+        "trackTimeInSeconds": 476
+      },
+
+      {
+        "trackNumber": 6,
+        "trackTitle": "I remember you",
+        "trackTimeInSeconds": 234
+      },
+
+      {
+        "trackNumber": 7,
+        "trackTitle": "Watercolors in the rain",
+        "trackTimeInSeconds": 221
+      },
+
+      {
+        "trackNumber": 8,
+        "trackTitle": "The big L",
+        "trackTimeInSeconds": 267
+      },
+
+      {
+        "trackNumber": 9,
+        "trackTitle": "Soul deep",
+        "trackTimeInSeconds": 215
+      },
+
+      {
+        "trackNumber": 10,
+        "trackTitle": "(Do you get) Excited",
+        "trackTimeInSeconds": 257
+      },
+
+      {
+        "trackNumber": 11,
+        "trackTitle": "Church of your heart",
+        "trackTimeInSeconds": 197
+      },
+
+      {
+        "trackNumber": 12,
+        "trackTitle": "Small talk",
+        "trackTimeInSeconds": 234
+      },
+
+      {
+        "trackNumber": 13,
+        "trackTitle": "Physical fascination",
+        "trackTimeInSeconds": 208
+      },
+
+      {
+        "trackNumber": 14,
+        "trackTitle": "Things will never be the same",
+        "trackTimeInSeconds": 266
+      },
+
+      {
+        "trackNumber": 15,
+        "trackTitle": "Perfect day",
+        "trackTimeInSeconds": 245
+      }
+    ]
+  },
+
+  {
+    "id": 7,
+    "albumName": "Slippery when wet",
+    "artistName": "Bon Jovi",
+    "artistWebsite": "http://www.bonjovi.com/",
+    "productionYear": 2010,
+    "trackList": [
+      {
+        "trackNumber": 1,
+        "trackTitle": "Let it rock",
+        "trackTimeInSeconds": 326
+      },
+
+      {
+        "trackNumber": 2,
+        "trackTitle": "You give love a bad name",
+        "trackTimeInSeconds": 223
+      },
+
+      {
+        "trackNumber": 3,
+        "trackTitle": "Livin' on a prayer",
+        "trackTimeInSeconds": 250
+      },
+
+      {
+        "trackNumber": 4,
+        "trackTitle": "Social disease",
+        "trackTimeInSeconds": 258
+      },
+
+      {
+        "trackNumber": 5,
+        "trackTitle": "Wanted dead or alive",
+        "trackTimeInSeconds": 309
+      },
+
+      {
+        "trackNumber": 6,
+        "trackTitle": "Raise your hands",
+        "trackTimeInSeconds": 257
+      },
+
+      {
+        "trackNumber": 7,
+        "trackTitle": "Without love",
+        "trackTimeInSeconds": 221
+      },
+
+      {
+        "trackNumber": 8,
+        "trackTitle": "I'd die for you",
+        "trackTimeInSeconds": 271
+      },
+
+      {
+        "trackNumber": 9,
+        "trackTitle": "Never say goodbye",
+        "trackTimeInSeconds": 289
+      },
+
+      {
+        "trackNumber": 10,
+        "trackTitle": "Wild in the streets",
+        "trackTimeInSeconds": 235
+      },
+
+      {
+        "trackNumber": 11,
+        "trackTitle": "You give love a bad name - live version",
+        "trackTimeInSeconds": 251
+      },
+
+      {
+        "trackNumber": 12,
+        "trackTitle": "Livin' on a prayer - live version",
+        "trackTimeInSeconds": 334
+      },
+
+      {
+        "trackNumber": 13,
+        "trackTitle": "Wanted dead or alive - live version",
+        "trackTimeInSeconds": 323
+      }
+    ]
+  },
+
+  {
+    "id": 8,
+    "albumName": "Crazy world",
+    "artistName": "Scorpions",
+    "artistWebsite": "http://www.the-scorpions.com/english/",
+    "productionYear": 1990,
+    "trackList": [
+      {
+        "trackNumber": 1,
+        "trackTitle": "Tease me please",
+        "trackTimeInSeconds": 287
+      },
+
+      {
+        "trackNumber": 2,
+        "trackTitle": "Don't believe her ",
+        "trackTimeInSeconds": 296
+      },
+
+      {
+        "trackNumber": 3,
+        "trackTitle": "To be with you in heaven",
+        "trackTimeInSeconds": 292
+      },
+
+      {
+        "trackNumber": 4,
+        "trackTitle": "Wind of change",
+        "trackTimeInSeconds": 314
+      },
+
+      {
+        "trackNumber": 5,
+        "trackTitle": "Restless nights",
+        "trackTimeInSeconds": 349
+      },
+
+      {
+        "trackNumber": 6,
+        "trackTitle": "Lust or love",
+        "trackTimeInSeconds": 263
+      },
+
+      {
+        "trackNumber": 7,
+        "trackTitle": "Kicks after six",
+        "trackTimeInSeconds": 220
+      },
+
+      {
+        "trackNumber": 8,
+        "trackTitle": "Hit between the eyes",
+        "trackTimeInSeconds": 273
+      },
+
+      {
+        "trackNumber": 9,
+        "trackTitle": "Money and fame",
+        "trackTimeInSeconds": 308
+      },
+
+      {
+        "trackNumber": 10,
+        "trackTitle": "Crazy world",
+        "trackTimeInSeconds": 309
+      },
+
+      {
+        "trackNumber": 11,
+        "trackTitle": "Send me an angel",
+        "trackTimeInSeconds": 274
+      }
+    ]
+  },
+
+  {
+    "id": 9,
+    "albumName": "The razors edge",
+    "artistName": "AC/DC",
+    "artistWebsite": "http://www.acdc.com/us/home",
+    "productionYear": 1990,
+    "trackList": [
+      {
+        "trackNumber": 1,
+        "trackTitle": "Thunderstruck",
+        "trackTimeInSeconds": 293
+      },
+
+      {
+        "trackNumber": 2,
+        "trackTitle": "Fire your guns",
+        "trackTimeInSeconds": 174
+      },
+
+      {
+        "trackNumber": 3,
+        "trackTitle": "Moneytalks",
+        "trackTimeInSeconds": 226
+      },
+
+      {
+        "trackNumber": 4,
+        "trackTitle": "The razors edge",
+        "trackTimeInSeconds": 263
+      },
+
+      {
+        "trackNumber": 5,
+        "trackTitle": "Mistress for christmas",
+        "trackTimeInSeconds": 240
+      },
+
+      {
+        "trackNumber": 6,
+        "trackTitle": "Rock your heart out",
+        "trackTimeInSeconds": 247
+      },
+
+      {
+        "trackNumber": 7,
+        "trackTitle": "Are you ready",
+        "trackTimeInSeconds": 251
+      },
+
+      {
+        "trackNumber": 8,
+        "trackTitle": "Got you by the balls",
+        "trackTimeInSeconds": 271
+      },
+
+      {
+        "trackNumber": 9,
+        "trackTitle": "Shot of love",
+        "trackTimeInSeconds": 237
+      },
+
+      {
+        "trackNumber": 10,
+        "trackTitle": "Let's make it",
+        "trackTimeInSeconds": 213
+      },
+
+      {
+        "trackNumber": 11,
+        "trackTitle": "Goodbye and good riddance to bad luck ",
+        "trackTimeInSeconds": 194
+      },
+
+      {
+        "trackNumber": 12,
+        "trackTitle": "If you dare",
+        "trackTimeInSeconds": 199
+      }
+    ]
+  }
+]
