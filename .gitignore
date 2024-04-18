@@ -12,8 +12,8 @@
 *.zip
 .DS_Store
 EksamensEksempler
-*/Code-Labelling
-*/OLD
+Code-Labelling
+OLD
 
 
 # User-specific files (MonoDevelop/Xamarin Studio)
