@@ -8,6 +8,8 @@ const dataset = [
   5, 10, 13, 19, 21, 25, 2, 1, 12, 15, 20, 18, 17, 16, 18, 23, 18, 15, 13, 25,
 ];
 
+//Hej Andreas
+
 //Create SVG element with width and height based on w and h variables
 const svg = d3.select("body").append("svg").attr("width", w).attr("height", h);
 
