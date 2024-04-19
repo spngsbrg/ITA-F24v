@@ -6,6 +6,23 @@
     <title>Visualisering med d3</title>
   </head>
   <body>
+    <script>
+      //code-labelling exp:
+      function Human(name, age) {
+        this.name = name;
+        this.age = parseInt(age);
+      }
+
+      const me = new Human("John Smith", "30");
+      const meToo = new Human("Pochahontas", "20");
+
+      const scum = new Human("gov. Radscliff", "hest");
+
+      console.log(me);
+      console.log(meToo);
+      console.log(scum);
+    </script>
+
     <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
     <script src="scripts/d3BarChart.js"></script>
   </body>
