@@ -38,7 +38,7 @@ const yScale = d3
 
 for (let n in numbers) {
   console.log("original value: " + numbers[n]);
-  console.log("scaled value: " + xScale(data[d]));
+  console.log("scaled value: " + yScale(numbers[d]));
 }
 
 //For two-dimensional data
