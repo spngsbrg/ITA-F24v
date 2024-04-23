@@ -26,7 +26,7 @@ const w = 500;
 const h = 100;
 
 //Skala for y-aksen
-const yScale = d3
+const yScaleOLD = d3
   .scaleLinear()
   .domain([
     0,
@@ -38,12 +38,19 @@ const yScale = d3
 
 for (let n in numbers) {
   console.log("original value: " + numbers[n]);
-  console.log("scaled value: " + yScale(numbers[d]));
+  console.log("scaled value: " + Math.round(yScaleOLD(numbers[n])));
 }
 
 //For two-dimensional data
-
-/*
+const data = [
+  [5, 20],
+  [480, 90],
+  [250, 50],
+  [100, 33],
+  [330, 95],
+  [410, 12],
+  [475, 44],
+];
 //Skala for x-aksen
 const xScale = d3
   .scaleLinear()
@@ -68,6 +75,10 @@ const yScale = d3
 
 for (let d in data) {
   console.log("original x,y: " + data[d][0] + "," + data[d][1]);
-  console.log("scaled x,y: " + xScale(data[d][0]) + "," + xScale(data[d][1]));
+  console.log(
+    "scaled x,y: " +
+      Math.round(xScale(data[d][0])) +
+      "," +
+      Math.round(xScale(data[d][1]))
+  );
 }
-*/
