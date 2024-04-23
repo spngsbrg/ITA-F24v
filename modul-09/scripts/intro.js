@@ -25,17 +25,6 @@ console.log(minValue);
 const w = 500;
 const h = 100;
 
-//Skala for x-aksen
-const xScale = d3
-  .scaleLinear()
-  .domain([
-    0,
-    d3.max(numbers, function (d) {
-      return d;
-    }),
-  ])
-  .range([0, w]);
-
 //Skala for y-aksen
 const yScale = d3
   .scaleLinear()
@@ -46,3 +35,39 @@ const yScale = d3
     }),
   ])
   .range([0, h]);
+
+for (let n in numbers) {
+  console.log("original value: " + numbers[n]);
+  console.log("scaled value: " + xScale(data[d]));
+}
+
+//For two-dimensional data
+
+/*
+//Skala for x-aksen
+const xScale = d3
+  .scaleLinear()
+  .domain([
+    0,
+    d3.max(data, function (d) {
+      return d[0];
+    }),
+  ])
+  .range([0, w]);
+
+//Skala for y-aksen
+const yScale = d3
+  .scaleLinear()
+  .domain([
+    0,
+    d3.max(data, function (d) {
+      return d[1];
+    }),
+  ])
+  .range([0, h]);
+
+for (let d in data) {
+  console.log("original x,y: " + data[d][0] + "," + data[d][1]);
+  console.log("scaled x,y: " + xScale(data[d][0]) + "," + xScale(data[d][1]));
+}
+*/
