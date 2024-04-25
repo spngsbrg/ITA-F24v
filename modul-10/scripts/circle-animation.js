@@ -31,7 +31,7 @@ d3.selectAll("circle")
 
 /**
  * Havde vi haft en knap et sted på siden, kunne vi have fået animationen til at starte ved klik på knappen:
- * d3.select("#klik")
+ * d3.select("#startAnimationBtn")
   .on("click", function () {
     d3.selectAll("circle")
       .transition() 
