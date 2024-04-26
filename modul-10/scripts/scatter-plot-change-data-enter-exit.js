@@ -56,7 +56,7 @@ d3.selectAll("#data1, #data2, #data3").on("click", function (e) {
 
   // Kald animateNewData med det nye datasæt
   animateNewData(newData);
-  updateAnimateLabels(newData);
+  animateUpdateLabels(newData);
 });
 
 //Hjælpefunktioner som sætter de dynamiske data som skal bruges til at lave scales og akser
@@ -173,7 +173,7 @@ function animateNewData(newData) {
   //Først tager vi fat i cirklerne
   animateUpdateCircles(newData);
   //Dernæst tager vi fat i labels
-  updateAnimateLabels(newData);
+  animateUpdateLabels(newData);
   //Til sidst tager vi fat i akserne - der gør vi ligesom sidst
   //Vælg x-aksen
   svg
@@ -199,11 +199,12 @@ function animateNewData(newData) {
 function animateUpdateCircles(newData) {
   // vælg alle cirkler og benyt det nye datasæt - denne gang gemmer vi det i en variabel, således at vi kan bruge den til at animere de nye punkter og sammenligne med de eksisterende
   let updateSelectionCirles = svg.selectAll("circle").data(newData);
-
+  console.log(updateSelectionCirles);
   // Append circle og sæt attributter på de nye punkter som bliver deres startværdier - bemærk, de forholder sig ikke til deres reelle position endnu men alle får samme startværdier
   updateSelectionCirles
     .enter()
     .append("circle")
+    /*
     .attr("cx", function (d) {
       return w / 2;
     })
@@ -211,7 +212,7 @@ function animateUpdateCircles(newData) {
       return h;
     })
     .attr("r", 1) // Starter på radius 1
-
+*/
     // Her flettes det nye punkt sammen med de gamle punkter
     .merge(updateSelectionCirles)
     //Alle punkter animeres nu
@@ -242,7 +243,7 @@ function animateUpdateCircles(newData) {
     .remove(); // 'circle' slettes
 }
 
-function updateAnimateLabels(newData) {
+function animateUpdateLabels(newData) {
   //Vælg labels og gem dem i en variabel
   let updateSelectionLabels = svg.selectAll(".label").data(newData);
 
@@ -252,13 +253,13 @@ function updateAnimateLabels(newData) {
     .append("text")
     .text(function (d) {
       return d[1];
-    })
-    .attr("cx", function (d) {
+    }) /*
+    .attr("x", function (d) {
       return w / 2;
     })
-    .attr("cy", function (d) {
+    .attr("y", function (d) {
       return h;
-    })
+    })*/
     .attr("class", "label")
 
     // Her flettes de nye labels sammen med de gamle labels

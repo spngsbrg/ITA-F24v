@@ -102,10 +102,6 @@ function createDefaultChart(dataset) {
     .enter()
     .append("rect")
     .attr("x", function (d, i) {
-      console.log(d);
-      return i * dataset.length;
-    })
-    .attr("x", function (d, i) {
       return xScale(i) + padding;
     })
     .attr("y", function (d) {
@@ -179,12 +175,10 @@ function createAxisX(xScale, isFastest) {
       .scale(xScale)
       //Her fortæller vi hvad der skal skrives på aksen, isFastest bestemmer om det skal være måletid eller måledato
       .tickFormat(function (d) {
-        while (d < dataset.length) {
-          if (isFastest) {
-            return dataset[d][0];
-          } else {
-            return dataset[d][2];
-          }
+        if (isFastest) {
+          return dataset[d][0];
+        } else {
+          return dataset[d][2];
         }
       })
   );
@@ -256,7 +250,7 @@ function sortData(by) {
    */
   if (by === "sortByValue") {
     dataset.sort(function (a, b) {
-      return a[1] - b[1];
+      return b[1] - a[1];
     });
   } else if (by === "sortByDate") {
     dataset.sort(function (a, b) {
