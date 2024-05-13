@@ -210,7 +210,6 @@ function formatAxisX() {
     .attr("transform", "translate(-10,5)rotate(-45)")
     .style("text-anchor", "end");
 }
-
 function animateData(data, isFastest) {
   setUp(data, isFastest);
   formatAxisX();
