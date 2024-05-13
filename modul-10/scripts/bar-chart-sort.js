@@ -211,6 +211,7 @@ function formatAxisX() {
     .style("text-anchor", "end");
 }
 
+//hej
 function animateData(data, isFastest) {
   setUp(data, isFastest);
   formatAxisX();
